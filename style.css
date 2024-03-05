@@ -1,0 +1,12 @@
+.ParentDiv{
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    
+    letter-spacing:0.1rem;
+
+    font-size: xx-large;
+    margin: 2em;
+    
+}
